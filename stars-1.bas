@@ -1,0 +1,5 @@
+CLS
+DO
+ PIXEL RND*MM.HRes, RND*MM.VRes
+Loop
+
